@@ -1,16 +1,25 @@
 const { prompt } = require("inquirer");
 const logo = require("asciiart-logo");
 const db = require("./db");
+var CFonts = require("cfonts");
 require("console.table");
-init();
 
 
-// Display logo text, load main prompts
-function init() {
-  const logoText = logo({ name: "team tyme!!!!" }).render();
-  console.log(logoText);
-  loadMainPrompts();
-}
+//Title section
+//========================================
+CFonts.say('Employee|Manager!', {
+    font: 'block',
+    align: 'center',
+    colors: ['system'],
+    background: 'transparent',
+    letterSpacing: 1,
+    lineHeight: 1,
+    space: true,
+    maxLength: '0',
+});
+
+loadMainPrompts();
+
 async function loadMainPrompts() {
   const { choice } = await prompt([
     {

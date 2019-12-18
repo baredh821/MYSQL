@@ -20,7 +20,7 @@ https://github.com/baredh821/MYSQL
 
 https://drive.google.com/file/d/13R7TCmnANQZ_prb5lX7WlBleoeSNShhO/view
 
-<img src = "Screenshot.PNG">
+<img src = "Screenshot.png">
 
 [![Watch the video](<img src = "/Screenshot.PNG">)](https://drive.google.com/file/d/13R7TCmnANQZ_prb5lX7WlBleoeSNShhO/view)
 

@@ -20,7 +20,7 @@ https://github.com/baredh821/MYSQL
 
 https://drive.google.com/file/d/13R7TCmnANQZ_prb5lX7WlBleoeSNShhO/view
 
-[![asciicast](https://asciinema.org/a/113463.png)](https://drive.google.com/file/d/13R7TCmnANQZ_prb5lX7WlBleoeSNShhO/view)
+[![asciicast]()](https://drive.google.com/file/d/13R7TCmnANQZ_prb5lX7WlBleoeSNShhO/view)
 
 
 

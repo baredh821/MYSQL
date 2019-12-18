@@ -13,16 +13,14 @@ Employee Management - The application allows us to view the employee and organis
 # Versioning 
 > Github
 
-# Screenshots
-
-
-
 # Repo Details 
 https://github.com/baredh821/MYSQL
 
 # Video
 
 https://drive.google.com/file/d/13R7TCmnANQZ_prb5lX7WlBleoeSNShhO/view
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/13R7TCmnANQZ_prb5lX7WlBleoeSNShhO/view)
 
 
 

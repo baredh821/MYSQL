@@ -1,6 +1,6 @@
+const util = require("util");
 var mysql = require("mysql");
-var util = require("util");
-// create the connection information for the sql database
+
 var connection = mysql.createConnection({
   host: "localhost",
 
@@ -12,10 +12,13 @@ var connection = mysql.createConnection({
 
   // Your password
   password: "Winter01@",
-  database: "EmployeDB"
+  database: "employees"
 });
 
-connection.connect();
+connection.connect(function(err) {
+  if (err) throw err;
+});
+
 connection.query = util.promisify(connection.query);
 
 module.exports = connection;
